@@ -1,4 +1,5 @@
-# OYUNU İNDİR:
+# Oyunu İndir:
+------------------
 # SÜRÜM BELİRTİLMEMİŞ OLAN, OYUNUN İLK VERSYONU :
 # İNDİRME LİNKİ:
 # LİNK: https://gamejolt.com/games/IremHocaileMatematikDersi/1030025
