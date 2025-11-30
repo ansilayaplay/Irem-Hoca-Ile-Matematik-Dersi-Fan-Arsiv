@@ -6,7 +6,7 @@
 ---
 # Oyunu İndir:
 ---
-# İlk Versyon :
+# İlk Sürüm :
 # İndirme Linki:
 # GameJolt İndirme Linki: https://gamejolt.com/games/IremHocaileMatematikDersi/1030025
 # itch.io İndirme Linki: https://dsold1er87.itch.io/iremhocailematematikdersi
