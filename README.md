@@ -6,7 +6,7 @@
 ---
 # Oyunu İndir:
 ---
-# İlk Sürüm :
+# İlk Sürüm (58 MB) :
 # İndirme Linki:
 # GameJolt İndirme Linki: https://gamejolt.com/games/IremHocaileMatematikDersi/1030025
 # itch.io İndirme Linki: https://dsold1er87.itch.io/iremhocailematematikdersi
@@ -14,7 +14,7 @@
 # Çıkış Tarihi: 14 Kasım 2025.
 # OS/OS'LAR: Windows.
 ---
-# 1.0 :
+# 1.0 (? MB) :
 # İndirme Linki: Çıkışda Eklenecek.
 # Durum: Henüz Yayınlanmadı.
 # Çıkış Tarihi: 6 Aralık 2025.
