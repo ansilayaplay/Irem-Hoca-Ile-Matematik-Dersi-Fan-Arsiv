@@ -1,5 +1,5 @@
 ---
-📌 Not: Bu proje resmi dağıtım değildir, fan arşivi olarak hazırlanmıştır.
+# 📌 Not: Bu proje resmi dağıtım değildir, fan arşivi olarak hazırlanmıştır.
 ---
 # WinRAR Kurulumu:
 # .rar Dosyalarını Açmak İçin Windows'da WinRAR Kullanılabilir. Oyunun Windows'da Çalışması İçin WinRAR Programı Gereklidir.
