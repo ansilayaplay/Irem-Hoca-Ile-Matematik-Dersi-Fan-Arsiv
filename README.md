@@ -7,7 +7,7 @@
 ---
 # Oyunu İndir:
 ---
-# 0.9 (58 MB) :
+# V0.9 (58 MB) :
 # İndirme Linki:
 # GameJolt İndirme Linki: https://gamejolt.com/games/IremHocaileMatematikDersi/1030025
 # itch.io İndirme Linki: https://dsold1er87.itch.io/iremhocailematematikdersi
@@ -16,7 +16,7 @@
 # OS/OS'LAR: Windows.
 # YouTube Trailer: Yayınlanmadı.
 ---
-# 1.0 (Windows 180 MB / Android 204 MB) :
+# V1.0 (Windows 180 MB / Android 204 MB) :
 # İndirme Linki:
 # GameJolt İndirme Linki: https://gamejolt.com/games/IremHocaileMatematikDersi/1030025
 # itch.io İndirme Linki: https://dsold1er87.itch.io/iremhocailematematikdersi
