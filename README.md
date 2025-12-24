@@ -25,6 +25,13 @@
 # Durum: Oyun Yayınlandı.
 # Çıkış Tarihi: 6 Aralık 2025.
 # OS/OS'lar: Windows, Android.
-# YouTube Trailer: https://youtu.be/Y5RXnEEwaJ0?si=IgLQ9WyMioXjmXgR
-# ⚠️ Bu sürüm finaldir. Oyuna güncelleme gelmeyecektir.
+# YouTube Trailer: https://youtu.be/Y5RXnEEwaJ0?si=IgLQ9WyMioXjmXg
+---
+# YILBAŞI GÜNCELLEMESİ! (Sürüm: Bilinmiyor) (Boyut: Bilinmiyor)
+# İndrime Linki: Çıkışda Eklenecek.
+# Durum: Duyuruldu.
+# Çıkış Tarihi: Bilinmiyor.
+# OS/OS'lar: Windows, Android (Kesin Değil.)
+# YouTube Trailer: Yayınlanırsa Eklenecek.
+# ⚠️ BU GÜNCELLEMENİN FİNAL OLUP OLMAYACAĞI BİLİNMİYOR!
 ---
